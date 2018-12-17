@@ -1,0 +1,79 @@
+[Containments][1][General]
+AppletOrder=2;3;5;6;7;8
+
+[Containments][71][General]
+AppletOrder=72;73;89;75;76;78
+
+[Containments][77][General]
+extraItems=org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.clipboard,org.kde.plasma.bluetooth,org.kde.plasma.keyboardindicator,org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.networkmanagement
+knownItems=org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.clipboard,org.kde.plasma.bluetooth,org.kde.plasma.keyboardindicator,org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.networkmanagement
+
+[Containments][8][General]
+extraItems=org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.vault,org.kde.plasma.clipboard,org.kde.discovernotifier,org.kde.plasma.battery,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.kdeconnect
+knownItems=org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.vault,org.kde.plasma.clipboard,org.kde.discovernotifier,org.kde.plasma.battery,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.kdeconnect
+
+[DownloadDialog Settings]
+Height 1080=502
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=Apple-Logo-PNG-Transparent-Image.png,file:$HOME/Downloads/macos-mojave-night-lightened-r.jpg,file:$HOME/Downloads/5a37e212d904a8.5091170115136117948889.png,file:$HOME/Downloads/kisspng-computer-icons-macos-apple-apple-logo-5ab6e1c7bac909.5541131315219347917651.png,file:$HOME/Downloads/Apple-Logo-PNG-Transparent-Image.png,file:$HOME/Downloads/clipart46404.png
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Pictures/
+
+[PlasmaRunnerManager]
+LaunchCounts=2 services_systemsettings.desktop,1 services_google-chrome.desktop,1 services_pamac-manager.desktop,1 services_octopi.desktop,1 services_org.kde.ksysguard.desktop
+pluginWhiteList=services,desktopsessions,PowerDevil,shell,bookmarks,baloosearch,locations
+
+[PlasmaViews][Panel 1][Horizontal1024]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1152]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1200]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1280]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1366]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1440]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1600]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1680]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1900]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1916]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1920]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal2048]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal800]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal864]
+thickness=45
+
+[PlasmaViews][Panel 46][Horizontal1920]
+thickness=24
+
+[PlasmaViews][Panel 71][Horizontal1920]
+thickness=39
+
+[ScreenConnectors]
+0=eDP1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js
