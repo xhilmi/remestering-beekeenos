@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Breeze Dark No Shadow Transparent
+Comment= Breeze Dark with no panel shadow and transparency
+
+X-KDE-PluginInfo-Author=PyroclasticMayhem
+X-KDE-PluginInfo-Email=pyro@perhion.com
+X-KDE-PluginInfo-Name=breeze_dark_noshadow_transparent
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
